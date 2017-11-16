@@ -14,7 +14,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+<<<<<<< HEAD
     public void depositClick(View view) {
 
+=======
+    public void btn3Click(View view) {
     }
 }
