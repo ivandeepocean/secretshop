@@ -5,16 +5,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.secretshop.userv.DepositActivity">
 
-    <Button
-        android:id="@+id/depositBtn"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        />
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/depositBtn"
-        />
+
 
 
 </RelativeLayout>
