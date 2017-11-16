@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.secretshop.userv.DepositActivity">
 
-<<<<<<< HEAD
+
     <Button
         android:id="@+id/depositBtn"
         android:layout_width="match_parent"
@@ -24,9 +24,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/button3" />
-=======
-
->>>>>>> 22820e770bd773961b5c1156bb17583fb621f6a0
 
 
 </RelativeLayout>
